@@ -6,7 +6,7 @@ Your solution should, using Go, produce the shortest path between any two houses
 
 Include a set of executable tests for your solution. The following is a set of inputs for which the correct result is known:
 
-[Visual representation of neighborhood graph TBA]
+[See neighborhood.txt for list of nodes and edge values. Visual representation of neighborhood graph TBA]
 
 Given:
 startLocation: Natalie's House
