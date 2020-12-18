@@ -1,23 +1,23 @@
-neighborhood.addEdge("Natalie's abode", "Laura's crib", 9)
-neighborhood.addEdge("Natalie's abode", "Greg's casa", 4)
-neighborhood.addEdge("Natalie's abode", "Matt's pad", 18)
-neighborhood.addEdge("Natalie's abode", "Brian's apartment", 8)
-neighborhood.addEdge("Brian's apartment", "Wesley's condo", 7)
-neighborhood.addEdge("Brian's apartment", "Cam's dwelling", 17)
-neighborhood.addEdge("Greg's casa", "Cam's dwelling", 13)
-neighborhood.addEdge("Greg's casa", "Mike's digs", 19)
-neighborhood.addEdge("Greg's casa", "Matt's pad", 14)
-neighborhood.addEdge("Wesley's condo", "Kirk's farm", 10)
-neighborhood.addEdge("Wesley's condo", "Nathan's flat", 11)
-neighborhood.addEdge("Wesley's condo", "Bryce's den", 6)
-neighborhood.addEdge("Matt's pad", "Mark's crib", 19)
-neighborhood.addEdge("Matt's pad", "Nathan's flat", 15)
-neighborhood.addEdge("Matt's pad", "Craig's haunt", 14)
-neighborhood.addEdge("Mark's crib", "Kirk's farm", 9)
-neighborhood.addEdge("Mark's crib", "Nathan's flat", 12)
-neighborhood.addEdge("Bryce's den", "Craig's haunt", 10)
-neighborhood.addEdge("Bryce's den", "Mike's digs", 9)
-neighborhood.addEdge("Mike's digs", "Cam's dwelling", 20)
-neighborhood.addEdge("Mike's digs", "Nathan's flat", 12)
-neighborhood.addEdge("Cam's dwelling", "Craig's haunt", 18)
-neighborhood.addEdge("Nathan's flat", "Kirk's farm", 3)
+"Natalie's abode" to "Laura's crib": 9
+"Natalie's abode" to "Greg's casa": 4
+"Natalie's abode" to "Matt's pad": 18
+"Natalie's abode" to "Brian's apartment": 8
+"Brian's apartment" to "Wesley's condo": 7
+"Brian's apartment" to "Cam's dwelling": 17
+"Greg's casa" to "Cam's dwelling": 13
+"Greg's casa" to "Mike's digs": 19
+"Greg's casa" to "Matt's pad": 14
+"Wesley's condo" to "Kirk's farm": 10
+"Wesley's condo" to "Nathan's flat": 11
+"Wesley's condo" to "Bryce's den": 6
+"Matt's pad" to "Mark's crib": 19
+"Matt's pad" to "Nathan's flat": 15
+"Matt's pad" to "Craig's haunt": 14
+"Mark's crib" to "Kirk's farm": 9
+"Mark's crib" to "Nathan's flat": 12
+"Bryce's den" to "Craig's haunt": 10
+"Bryce's den" to "Mike's digs": 9
+"Mike's digs" to "Cam's dwelling": 20
+"Mike's digs" to "Nathan's flat": 12
+"Cam's dwelling" to "Craig's haunt": 18
+"Nathan's flat" to "Kirk's farm": 3
