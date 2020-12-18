@@ -13,9 +13,9 @@ Include a set of executable tests for your solution. The following is a set of i
 [See neighborhood.txt for list of nodes and edge values. Visual representation of neighborhood graph TBA]
 
 Given:
-startLocation: Natalie's House
-targetLocation: Jake's Haunt
+`startLocation: Natalie's House
+targetLocation: Jake's Haunt`
 
 Expected result:
-distance: 31
-path: ["Natalie's House", "Sophia's Apartment", "Jordan's Condo", "Danielle's Den", "Jake's Haunt"]
+`distance: 31
+path: ["Natalie's House", "Sophia's Apartment", "Jordan's Condo", "Danielle's Den", "Jake's Haunt"]`
